@@ -194,8 +194,8 @@ A terminal-inspired IPv4 subnetting assistant built with **React 18** and **Tail
 ## GitHub statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KatisoNtseare&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatisoNtseare&layout=compact&hide_border=true&langs_count=8" alt="Most used programming languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub statistics" />
+  <img height="165" src="./profile/top-langs.svg" alt="Most used programming languages" />
 </p>
 
 <p align="center">
@@ -205,7 +205,11 @@ A terminal-inspired IPv4 subnetting assistant built with **React 18** and **Tail
 ## Contribution activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KatisoNtseare&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/contribution-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/contribution-snake.svg" />
+    <img src="./profile/contribution-snake.svg" alt="GitHub contribution activity animation" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
