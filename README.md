@@ -34,7 +34,10 @@
   <img src="https://komarev.com/ghpvc/?username=KatisoNtseare&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/KatisoNtseare?style=flat-square&color=2563EB&label=FOLLOWERS" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/KatisoNtseare?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=0F766E&label=STARS" alt="GitHub stars" />
-</p>
+  <img src="https://img.shields.io/badge/Total%20repositories-52-18181B?style=for-the-badge&logo=github&logoColor=white" alt="52 total repositories" />
+  <img src="https://img.shields.io/badge/Public%20repositories-7-238636?style=for-the-badge&logo=github&logoColor=white" alt="7 public repositories" />
+  <img src="https://img.shields.io/badge/Private%20repositories-45-6E7781?style=for-the-badge&logo=github&logoColor=white" alt="45 private repositories" />
+</p> 
 
 ---
 
