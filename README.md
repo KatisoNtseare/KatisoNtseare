@@ -40,11 +40,9 @@
 
 ## About me
 
-I'm a final-year Diploma in Information Technology student, majoring in **Software Development at Nelson Mandela University**.
+I'm a **Software Developer and Systems Builder** based in South Africa. I turn ideas and real-world requirements into practical software, with interests spanning backend and frontend engineering, API design, relational databases, software architecture, application security and cloud deployment.
 
-I enjoy turning ideas and real-world requirements into working software. My interests span backend and frontend engineering, API design, relational databases, software architecture, application security and cloud deployment.
-
-I care about more than getting an application to work. I focus on understanding the problem, making sound engineering decisions and building systems that are secure, maintainable and ready to evolve.
+I care about more than getting an application to work. I focus on understanding the problem, making sound engineering decisions and building systems that are secure, maintainable and ready to evolve. My foundation in Information Technology and Software Development at **Nelson Mandela University** continues to shape the way I approach engineering challenges.
 
 ## Languages and frameworks
 
@@ -131,7 +129,7 @@ Working with hosting, IIS deployments, cloud infrastructure, DNS, environment co
 
 **Illuminate your mind, Elevate your future.**
 
-Luminar Learning is a collaborative digital tutoring marketplace developed as part of our Software Development work at Nelson Mandela University. The platform is designed to connect students with independent tutors and academies through a structured online learning environment.
+Luminar Learning is a collaborative digital tutoring marketplace developed at Nelson Mandela University. The platform is designed to connect learners with independent tutors and academies through a structured online learning environment.
 
 **What the platform brings together**
 
@@ -161,7 +159,7 @@ The system uses a Next.js and TypeScript frontend, an ASP.NET Core Web API, Enti
   </a>
 </p>
 
-<sub>Collaborative academic project. The live application is hosted on the Nelson Mandela University IIS environment. The source repository is private.</sub>
+<sub>Collaborative software project. The live application is hosted on the Nelson Mandela University IIS environment. The source repository is private.</sub>
 
 ### ProSubnet
 
