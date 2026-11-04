@@ -8,7 +8,7 @@
 <p align="center">
   <strong>Software Developer · Systems Builder</strong>
   <br />
-  Designing and building practical software with a focus on maintainability, scalability and security.
+  Building practical software with an emphasis on clean design, scalability, maintainability and security.
 </p>
 
 <p align="center">
@@ -19,24 +19,42 @@
 
 ---
 
-## About me
+## Engineering capabilities
 
-I'm a final-year Diploma in Information Technology student, majoring in Software Development at **Nelson Mandela University**.
+I work across the software development lifecycle, from shaping application structure and designing data models to building user interfaces, integrating services and deploying applications.
 
-I enjoy taking ideas and requirements and turning them into working software. My interests span backend and frontend development, API design, relational databases, software architecture, application security and cloud deployment.
+| Engineering area | What I focus on | Technologies and practices |
+|---|---|---|
+| **⚙️ Backend engineering** | API development, business logic, authentication, integrations and maintainable service layers. | C#, ASP.NET Core, Python, FastAPI, REST APIs |
+| **🖥️ Frontend engineering** | Responsive interfaces, reusable components, form handling, state management and API integration. | React, Next.js, JavaScript, TypeScript, Bootstrap, Tailwind CSS |
+| **🗄️ Database engineering** | Relational data modelling, query design, constraints, data access and reliable persistence. | Microsoft SQL Server, T-SQL, SSMS, relational database design |
+| **🏗️ Software architecture** | Layered and modular systems, separation of concerns, clear boundaries and designs that can evolve. | Clean code, modular design, maintainability, scalability |
+| **🔐 Security and quality** | Input validation, authentication and authorisation, secure configuration, testing and application security assessment. | Secure coding, testing practices, Burp Suite |
+| **☁️ Cloud and delivery** | Application hosting, deployment, environment configuration, DNS and delivery workflows. | Oracle Cloud, Cloudflare, Vercel, IIS, Git |
+| **🤖 AI and automation** | Exploring intelligent application features, workflow automation, document processing and service integrations. | Python, API integrations, automation patterns |
 
-I care about writing software that is understandable, maintainable and built to evolve. I value practical problem-solving, thoughtful engineering decisions and continuous learning.
+## GitHub portfolio
 
-- 🎓 **Education:** Diploma in Information Technology, Software Development — Nelson Mandela University
-- 🧭 **Engineering interests:** Scalable systems, secure applications, APIs, automation and cloud infrastructure
-- 🌍 **Based in:** South Africa
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20repositories-52-18181B?style=for-the-badge&logo=github&logoColor=white" alt="52 total repositories" />
+  <img src="https://img.shields.io/badge/Public%20repositories-7-238636?style=for-the-badge&logo=github&logoColor=white" alt="7 public repositories" />
+  <img src="https://img.shields.io/badge/Private%20repositories-45-6E7781?style=for-the-badge&logo=github&logoColor=white" alt="45 private repositories" />
+</p>
+
+| Repository visibility | Count |
+|---|---:|
+| 🌐 Public repositories | **7** |
+| 🔒 Private repositories | **45** |
+| **Total repositories** | **52** |
+
+<sub>Counts reflect repositories owned by this GitHub account on 4 November 2026. GitHub visibility is configured at repository level: branches belong to a repository and are not independently classified as public or private. <a href="https://github.com/KatisoNtseare?tab=repositories">View repositories</a>.</sub>
 
 ## Technology stack
 
 The tools below reflect the technologies I work with across my projects and learning.
 
 <p align="center">
-  <strong>Languages & backend</strong>
+  <strong>Languages and backend</strong>
   <br /><br />
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,fastapi,js,ts&perline=8" alt="C sharp, .NET, Python, FastAPI, JavaScript and TypeScript" />
 </p>
@@ -48,26 +66,14 @@ The tools below reflect the technologies I work with across my projects and lear
 </p>
 
 <p align="center">
-  <strong>Data, tools & infrastructure</strong>
+  <strong>Databases, tools and infrastructure</strong>
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,azure,cloudflare,vercel&perline=8" alt="Database, Git, GitHub, Linux, Azure, Cloudflare and Vercel icons" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,cloudflare,vercel&perline=8" alt="Git, GitHub, Linux, Cloudflare and Vercel" />
   <br /><br />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
   <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud" />
   <img src="https://img.shields.io/badge/IIS-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Internet Information Services" />
 </p>
-
-## What I work on
-
-| Area | What that means in practice |
-|---|---|
-| **Backend development** | Building APIs, application logic, integrations and service layers |
-| **Frontend development** | Creating responsive, component-based web experiences |
-| **Database engineering** | Relational modelling, SQL, queries and data access |
-| **Software architecture** | Modular design, maintainability, scalability and clear separation of concerns |
-| **Security & quality** | Secure development practices, testing and identifying application weaknesses |
-| **Cloud & deployment** | Hosting, infrastructure, configuration and deployment workflows |
-| **AI & automation** | Exploring ways to streamline processes and build more useful software |
 
 ## Selected public project
 
@@ -99,14 +105,14 @@ A terminal-inspired subnetting assistant built with **React 18** and **Tailwind 
   <img src="https://streak-stats.demolab.com?user=KatisoNtseare&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-## Contribution activity
+## Development activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KatisoNtseare&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
 </p>
 
 <p align="center">
-  <sub>GitHub analytics and activity graphs are generated by external services and may be delayed or temporarily unavailable. Language statistics are based on repositories those services can access; private work may not be represented.</sub>
+  <sub>Activity and analytics are generated by external services and may be delayed or temporarily unavailable. Language statistics generally reflect repositories visible to those services; private work may not be represented.</sub>
 </p>
 
 ---
@@ -114,4 +120,3 @@ A terminal-inspired subnetting assistant built with **React 18** and **Tailwind 
 ## Let's connect
 
 I'm interested in building useful technology, solving meaningful problems and connecting with people who care about thoughtful software engineering.
-
