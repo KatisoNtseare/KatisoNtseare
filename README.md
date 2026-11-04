@@ -12,9 +12,6 @@
 </p>
 
 <p align="center">
-  <a href="https://katiso.proit.dev">
-    <img src="https://img.shields.io/badge/Personal%20portfolio-Visit%20website-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal portfolio" />
-  </a>
   <a href="https://github.com/KatisoNtseare">
     <img src="https://img.shields.io/badge/GitHub-KatisoNtseare-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
@@ -90,8 +87,6 @@ A terminal-inspired subnetting assistant built with **React 18** and **Tailwind 
     <img src="https://img.shields.io/badge/Source%20code-View%20repository-18181B?style=for-the-badge&logo=github&logoColor=white" alt="View ProSubnet source code" />
   </a>
 </p>
-
-For a broader view of my software projects and work, visit my [personal portfolio](https://katiso.proit.dev).
 
 ## GitHub analytics
 
