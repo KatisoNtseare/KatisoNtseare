@@ -42,21 +42,7 @@ I'm a **Software Developer and Systems Builder** based in South Africa. I build 
 | **Luminar Learning** | Collaborative tutoring marketplace connecting learners, independent tutors and academies. Built with Next.js, ASP.NET Core Web API, SQL Server and supporting services. | [Live application](https://soit-iis.mandela.ac.za/grp-03-21) |
 | **ProSubnet** | React-based IPv4 subnetting assistant with VLSM calculations, network details and terminal-inspired interaction. | [Live demo](https://pro-subnet.vercel.app) · [Source](https://github.com/KatisoNtseare/ProSubnet) |
 
-## Contribution activity
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/contribution-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/contribution-snake.svg" />
-    <img src="./profile/contribution-snake.svg" alt="GitHub contribution activity over the past year" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <sub>Contribution activity is generated automatically and refreshed daily.</sub>
-</p>
-
----
 
 <details>
 <summary><strong>Show more · Technologies, engineering focus and GitHub statistics</strong></summary>
