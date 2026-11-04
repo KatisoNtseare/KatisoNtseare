@@ -1,69 +1,80 @@
-<!--
-  Katiso Ntseare | GitHub Profile
-  Keep this profile focused on engineering, featured work and professional growth.
--->
+<!-- Katiso Ntseare | GitHub Profile -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=KATISO%20NTSEARE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%7C%20SYSTEMS%20BUILDER&descAlignY=58&descSize=16&color=0:111827,55:2563EB,100:0F766E"
-    width="100%"
-    alt="Katiso Ntseare - Software Developer and Systems Builder"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=KATISO%20NTSEARE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%7C%20SYSTEMS%20BUILDER&descAlignY=58&descSize=16&color=0:111827,55:2563EB,100:0F766E" width="100%" alt="Katiso Ntseare - Software Developer and Systems Builder" />
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=900&color=2563EB&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems;Backend+and+frontend+engineering;Designing+maintainable+systems;Always+learning.+Always+building."
-    alt="Building software that solves real problems | Backend and frontend engineering | Designing maintainable systems | Always learning. Always building."
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Building+software+that+solves+real+problems;Backend+and+frontend+engineering;Designing+maintainable+systems" alt="Building software that solves real problems" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/KatisoNtseare">
-    <img src="https://img.shields.io/badge/GitHub-KatisoNtseare-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://soit-iis.mandela.ac.za/grp-03-21">
-    <img src="https://img.shields.io/badge/LIVE%20PROJECT-Luminar%20Learning-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Luminar Learning live application" />
-  </a>
-  <a href="https://pro-subnet.vercel.app">
-    <img src="https://img.shields.io/badge/LIVE%20PROJECT-ProSubnet-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="ProSubnet live application" />
-  </a>
+  <a href="https://soit-iis.mandela.ac.za/grp-03-21"><img src="https://img.shields.io/badge/LIVE-Luminar%20Learning-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Luminar Learning live application" /></a>
+  <a href="https://pro-subnet.vercel.app"><img src="https://img.shields.io/badge/LIVE-ProSubnet-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="ProSubnet live demo" /></a>
+  <a href="https://github.com/KatisoNtseare?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-My%20Repositories-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KatisoNtseare&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/KatisoNtseare?style=flat-square&color=2563EB&label=FOLLOWERS" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/KatisoNtseare?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=0F766E&label=STARS" alt="GitHub stars" />
-  <img src="https://img.shields.io/badge/Total%20repositories-52-18181B?style=for-the-badge&logo=github&logoColor=white" alt="52 total repositories" />
-  <img src="https://img.shields.io/badge/Public%20repositories-7-238636?style=for-the-badge&logo=github&logoColor=white" alt="7 public repositories" />
-  <img src="https://img.shields.io/badge/Private%20repositories-45-6E7781?style=for-the-badge&logo=github&logoColor=white" alt="45 private repositories" />
-</p> 
+  <img src="https://img.shields.io/badge/Repositories-52-18181B?style=flat-square&logo=github" alt="52 repositories" />
+  <img src="https://img.shields.io/badge/Public-7-238636?style=flat-square" alt="7 public repositories" />
+  <img src="https://img.shields.io/badge/Private-45-6E7781?style=flat-square" alt="45 private repositories" />
+</p>
 
 ---
 
-## About me
+## About
 
-I'm a **Software Developer and Systems Builder** based in South Africa. I turn ideas and real-world requirements into practical software, with interests spanning backend and frontend engineering, API design, relational databases, software architecture, application security and cloud deployment.
+I'm a **Software Developer and Systems Builder** based in South Africa. I build practical software across backend and frontend engineering, APIs, databases, application architecture, security and cloud deployment. My approach is centred on solving real problems and building systems that are maintainable, secure and ready to grow.
 
-I care about more than getting an application to work. I focus on understanding the problem, making sound engineering decisions and building systems that are secure, maintainable and ready to evolve. My foundation in Information Technology and Software Development at **Nelson Mandela University** continues to shape the way I approach engineering challenges.
+## Featured projects
+
+<p align="center">
+  <a href="https://soit-iis.mandela.ac.za/grp-03-21">
+    <img src="https://img.shields.io/badge/Luminar%20Learning-Open%20Live%20Application-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Luminar Learning" />
+  </a>
+  <a href="https://pro-subnet.vercel.app">
+    <img src="https://img.shields.io/badge/ProSubnet-Open%20Live%20Demo-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Open ProSubnet" />
+  </a>
+</p>
+
+| Project | Overview | Links |
+|---|---|---|
+| **Luminar Learning** | Collaborative tutoring marketplace connecting learners, independent tutors and academies. Built with Next.js, ASP.NET Core Web API, SQL Server and supporting services. | [Live application](https://soit-iis.mandela.ac.za/grp-03-21) |
+| **ProSubnet** | React-based IPv4 subnetting assistant with VLSM calculations, network details and terminal-inspired interaction. | [Live demo](https://pro-subnet.vercel.app) · [Source](https://github.com/KatisoNtseare/ProSubnet) |
+
+## Contribution activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/contribution-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/contribution-snake.svg" />
+    <img src="./profile/contribution-snake.svg" alt="GitHub contribution activity over the past year" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Contribution activity is generated automatically and refreshed daily.</sub>
+</p>
+
+---
+
+<details>
+<summary><strong>Show more · Technologies, engineering focus and GitHub statistics</strong></summary>
 
 ## Languages and frameworks
 
 <p align="center">
-  <strong>Programming languages</strong>
-  <br /><br />
+  <strong>Programming languages</strong><br /><br />
   <img src="https://skillicons.dev/icons?i=cs,python,js,ts&perline=8" alt="C sharp, Python, JavaScript and TypeScript" />
 </p>
 
 <p align="center">
-  <strong>Frameworks and libraries</strong>
-  <br /><br />
+  <strong>Frameworks and libraries</strong><br /><br />
   <img src="https://skillicons.dev/icons?i=dotnet,fastapi,react,nextjs,bootstrap,tailwind&perline=8" alt=".NET, FastAPI, React, Next.js, Bootstrap and Tailwind CSS" />
 </p>
 
 <p align="center">
-  <strong>Databases, developer tools and platforms</strong>
-  <br /><br />
+  <strong>Databases, developer tools and platforms</strong><br /><br />
   <img src="https://skillicons.dev/icons?i=git,github,linux,cloudflare,vercel&perline=8" alt="Git, GitHub, Linux, Cloudflare and Vercel" />
   <br /><br />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
@@ -73,123 +84,33 @@ I care about more than getting an application to work. I focus on understanding 
 
 ## Engineering focus
 
-<h3>
-  <img src="https://img.icons8.com/ios-filled/50/2563EB/server.png" width="22" height="22" alt="Backend icon" />
-  Backend and API engineering
-</h3>
+- **Backend and API engineering:** APIs, business logic, authentication, authorisation, integrations and service layers.
+- **Frontend engineering:** Responsive interfaces, reusable components, state management and API integration.
+- **Database engineering:** Relational modelling, SQL, constraints, data access and persistence.
+- **Software architecture:** Modular design, separation of concerns, maintainability and scalability.
+- **Application security and quality:** Secure development, input validation, testing and vulnerability assessment.
+- **Cloud and delivery:** Hosting, IIS deployments, infrastructure, DNS and deployment workflows.
+- **AI and automation:** Intelligent application features, workflow automation and service integrations.
 
-Designing APIs, implementing business logic, authentication, authorisation, integrations and maintainable service layers.
-
-<h3>
-  <img src="https://img.icons8.com/ios-filled/50/2563EB/monitor.png" width="22" height="22" alt="Frontend icon" />
-  Frontend engineering
-</h3>
-
-Building responsive interfaces, reusable components, form workflows, state management and reliable frontend-to-API integration.
-
-<h3>
-  <img src="https://img.icons8.com/ios-filled/50/2563EB/database.png" width="22" height="22" alt="Database icon" />
-  Database engineering
-</h3>
-
-Working with relational data models, SQL queries, constraints, migrations, data access and persistence.
-
-<h3>
-  <img src="https://img.icons8.com/ios-filled/50/2563EB/layers.png" width="22" height="22" alt="Architecture icon" />
-  Software architecture
-</h3>
-
-Applying modular design, separation of concerns, clear application boundaries and maintainable engineering practices.
-
-<h3>
-  <img src="https://img.icons8.com/ios-filled/50/2563EB/shield.png" width="22" height="22" alt="Security icon" />
-  Application security and quality
-</h3>
-
-Practising secure development, validating inputs, testing application behaviour and assessing potential vulnerabilities.
-
-<h3>
-  <img src="https://img.icons8.com/ios-filled/50/2563EB/cloud.png" width="22" height="22" alt="Cloud icon" />
-  Cloud, infrastructure and delivery
-</h3>
-
-Working with hosting, IIS deployments, cloud infrastructure, DNS, environment configuration and development workflows.
-
----
-
-## Featured work
-
-### Luminar Learning
-
-<p align="center">
-  <a href="https://soit-iis.mandela.ac.za/grp-03-21">
-    <img
-      src="https://img.shields.io/badge/OPEN%20LIVE%20APPLICATION-Luminar%20Learning-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Open Luminar Learning live application"
-    />
-  </a>
-</p>
+## More about Luminar Learning
 
 **Illuminate your mind, Elevate your future.**
 
-Luminar Learning is a collaborative digital tutoring marketplace developed at Nelson Mandela University. The platform is designed to connect learners with independent tutors and academies through a structured online learning environment.
+Luminar Learning is a collaborative software project developed at Nelson Mandela University. It provides a structured online tutoring environment with:
 
-**What the platform brings together**
+- Role-based experiences for learners, independent tutors, academy administrators, HR, academy tutors and platform administrators.
+- Learning modules and tutor-managed content.
+- OTP-based lesson completion verification.
+- PayFast payment workflows, platform commission handling, wallet balances and withdrawals.
+- Administration, verification and reporting features.
 
-- **Multi-role learning environment:** Students, independent tutors, academy administrators, academy HR, academy tutors and platform administrators.
-- **Learning modules:** Tutors and academies can publish learning modules for students.
-- **Lesson verification:** OTP-based lesson completion helps verify that lessons have taken place.
-- **Payments and tutor earnings:** PayFast payment integration, platform commission handling, wallet balances and withdrawal workflows.
-- **Administration and reporting:** Verification workflows, role-scoped reporting and operational oversight.
+**Architecture and integrations**
 
-**Technology and architecture**
+Next.js, TypeScript, ASP.NET Core Web API, Entity Framework Core, ASP.NET Identity, SQL Server, Cloudinary, PayFast, SMTP and a Python document service.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,dotnet,cs,python&perline=8" alt="Next.js, TypeScript, Tailwind CSS, .NET, C sharp and Python" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-Web%20API-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core Web API" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-  <img src="https://img.shields.io/badge/PayFast-00A3E0?style=flat-square&logo=buymeacoffee&logoColor=white" alt="PayFast payment integration" />
-</p>
+[Open the Luminar Learning application](https://soit-iis.mandela.ac.za/grp-03-21)
 
-The system uses a Next.js and TypeScript frontend, an ASP.NET Core Web API, Entity Framework Core, ASP.NET Identity and SQL Server. Integrations include Cloudinary for media, PayFast for payments, SMTP notifications and a Python document service for generated reports.
-
-<p align="center">
-  <a href="https://soit-iis.mandela.ac.za/grp-03-21">
-    <img src="https://img.shields.io/badge/HOSTED%20AT-Nelson%20Mandela%20University-18181B?style=for-the-badge&logo=microsoftiis&logoColor=white" alt="Hosted at Nelson Mandela University" />
-  </a>
-</p>
-
-<sub>Collaborative software project. The live application is hosted on the Nelson Mandela University IIS environment. The source repository is private.</sub>
-
-### ProSubnet
-
-A terminal-inspired IPv4 subnetting assistant built with **React 18** and **Tailwind CSS**.
-
-- Performs standard IPv4 subnetting and Variable Length Subnet Masking (VLSM).
-- Calculates network addresses, usable IP ranges, broadcast addresses and subnet masks.
-- Includes command history, help commands and keyboard navigation.
-
-<p align="center">
-  <a href="https://pro-subnet.vercel.app">
-    <img src="https://img.shields.io/badge/OPEN%20LIVE%20DEMO-ProSubnet-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Open ProSubnet live demo" />
-  </a>
-  <a href="https://github.com/KatisoNtseare/ProSubnet">
-    <img src="https://img.shields.io/badge/VIEW%20SOURCE-GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="View ProSubnet source code" />
-  </a>
-</p>
-
-## GitHub portfolio
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20repositories-52-18181B?style=for-the-badge&logo=github&logoColor=white" alt="52 total repositories" />
-  <img src="https://img.shields.io/badge/Public%20repositories-7-238636?style=for-the-badge&logo=github&logoColor=white" alt="7 public repositories" />
-  <img src="https://img.shields.io/badge/Private%20repositories-45-6E7781?style=for-the-badge&logo=github&logoColor=white" alt="45 private repositories" />
-</p>
-
-<sub>Repository counts reflect the repositories owned by this account when checked on 4 November 2026. Private work is not included in public profile statistics.</sub>
+<sub>The live application is hosted on the Nelson Mandela University IIS environment. The source repository is private.</sub>
 
 ## GitHub statistics
 
@@ -202,24 +123,15 @@ A terminal-inspired IPv4 subnetting assistant built with **React 18** and **Tail
   <img src="https://streak-stats.demolab.com?user=KatisoNtseare&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-## Contribution activity
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/contribution-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/contribution-snake.svg" />
-    <img src="./profile/contribution-snake.svg" alt="GitHub contribution activity animation" width="100%" />
-  </picture>
+  <sub>Repository counts were checked on 4 November 2026. Private repositories are not represented in public contribution and language statistics.</sub>
 </p>
 
-<p align="center">
-  <sub>Statistics and activity visuals are generated by external services and may be delayed or temporarily unavailable. Language statistics generally reflect repositories visible to those services; private work may not be represented.</sub>
-</p>
+</details>
 
 ---
 
 <p align="center">
-  <strong>Thanks for visiting my profile.</strong>
-  <br />
+  <strong>Thanks for visiting.</strong><br />
   Building with purpose. Learning continuously. Improving with every project.
 </p>
