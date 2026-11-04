@@ -1,22 +1,19 @@
 <!--
   Katiso Ntseare | GitHub Profile README
-  Keep this page focused on verified skills, public work and professional links.
+  Focused on software engineering, practical projects and professional links.
 -->
 
 <h1 align="center">Hi, I'm Katiso Ntseare 👋</h1>
 
 <p align="center">
-  <strong>Software Developer · Systems Builder · Founder & Director, ProIT Solutions</strong>
+  <strong>Software Developer · Systems Builder</strong>
   <br />
   Designing and building practical software with a focus on maintainability, scalability and security.
 </p>
 
 <p align="center">
   <a href="https://katiso.proit.dev">
-    <img src="https://img.shields.io/badge/Portfolio-katiso.proit.dev-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal portfolio" />
-  </a>
-  <a href="https://proit.dev">
-    <img src="https://img.shields.io/badge/ProIT%20Solutions-proit.dev-E53935?style=for-the-badge&logo=codeberg&logoColor=white" alt="ProIT Solutions website" />
+    <img src="https://img.shields.io/badge/Personal%20portfolio-Visit%20website-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal portfolio" />
   </a>
   <a href="https://github.com/KatisoNtseare">
     <img src="https://img.shields.io/badge/GitHub-KatisoNtseare-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
@@ -27,14 +24,13 @@
 
 ## About me
 
-I'm a final-year Diploma in Information Technology student, majoring in Software Development at **Nelson Mandela University**, and the Founder & Director of **ProIT Solutions (Pty) Ltd**.
+I'm a final-year Diploma in Information Technology student, majoring in Software Development at **Nelson Mandela University**.
 
 I enjoy taking ideas and requirements and turning them into working software. My interests span backend and frontend development, API design, relational databases, software architecture, application security and cloud deployment.
 
 I care about writing software that is understandable, maintainable and built to evolve. I value practical problem-solving, thoughtful engineering decisions and continuous learning.
 
 - 🎓 **Education:** Diploma in Information Technology, Software Development — Nelson Mandela University
-- 💼 **Business:** Founder & Director — [ProIT Solutions](https://proit.dev)
 - 🧭 **Engineering interests:** Scalable systems, secure applications, APIs, automation and cloud infrastructure
 - 🌍 **Based in:** South Africa
 
@@ -126,13 +122,6 @@ I'm interested in building useful technology, solving meaningful problems and co
 
 <p align="center">
   <a href="https://katiso.proit.dev">
-    <img src="https://img.shields.io/badge/Personal%20portfolio-Visit%20website-E53935?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" />
+    <img src="https://img.shields.io/badge/Personal%20portfolio-Visit%20website-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" />
   </a>
-  <a href="https://proit.dev">
-    <img src="https://img.shields.io/badge/ProIT%20Solutions-Explore%20ProIT-18181B?style=for-the-badge&logo=codeberg&logoColor=white" alt="Explore ProIT Solutions" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Innovating the Future of Technology.</strong>
 </p>
