@@ -115,8 +115,3 @@ A terminal-inspired subnetting assistant built with **React 18** and **Tailwind 
 
 I'm interested in building useful technology, solving meaningful problems and connecting with people who care about thoughtful software engineering.
 
-<p align="center">
-  <a href="https://katiso.proit.dev">
-    <img src="https://img.shields.io/badge/Personal%20portfolio-Visit%20website-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" />
-  </a>
-</p>
