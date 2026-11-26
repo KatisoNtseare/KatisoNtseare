@@ -21,7 +21,10 @@
 </p>
 
 ---
-
+## My Portfolio
+<a href="https://katiso.proit.dev">
+  <h1>Click to visit My Portfolio</h1>
+</a>
 ## About
 
 I'm a **Software Developer and Systems Builder** based in South Africa. I build practical software across backend and frontend engineering, APIs, databases, application architecture, security and cloud deployment. My approach is centred on solving real problems and building systems that are maintainable, secure and ready to grow.
